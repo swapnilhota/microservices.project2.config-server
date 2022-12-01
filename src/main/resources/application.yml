@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/swapnilhota/microservices.project2.config-server
+          uri: https://github.com/swapnilhota/microservices.project2.configurations
           clone-on-start: true
 
 server:
